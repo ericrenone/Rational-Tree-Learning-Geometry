@@ -1,6 +1,6 @@
 # Rational Tree Learning Geometry (RTLG)
 
-> **A canonical arithmetic–geometric framework for classifying learning dynamics via the positive cone of $SL(2,\mathbb{Z})$.**
+> **Classifying learning dynamics via the positive cone of $SL(2,\mathbb{Z})$.**
 
 ---
 
