@@ -333,3 +333,9 @@ All combinatorial, arithmetic, geometric, and differential structures are equiva
 
 **Empirical validation.** The primary open question is whether the embedding defined by Axioms 1–2 has predictive power beyond structural visualization. This requires controlled experiments measuring $S_t$ and $N_t$ across architectures, datasets, and learning rate schedules, with outcomes compared to tree-depth and path-entropy trajectories.
 
+---
+
+---
+
+> **Every learning trajectory is a word. Every word is a rational. Every rational is a path through hyperbolic space — and now you can read them.**
+
